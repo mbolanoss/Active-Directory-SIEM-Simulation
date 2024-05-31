@@ -10,7 +10,7 @@ This project simulates a scenario in which an Active Directory environment is co
 - Configuration of an Active Directory environment.
 - Installation and setup of a Windows Server 2022 machine.
 - Execution of brute force password guessing attacks.
-- Conducting security tests on a Windows 10 machince.
+- Conducting security tests on a Windows 10 machine.
 
 ### Tools Used
 
